@@ -18,6 +18,10 @@ spring:
     port: 5672
     username: guest
     password: guest
+springdoc:
+  api-docs:
+    path: /avaliacao-docs
+    
   
  
 disciplina:

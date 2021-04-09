@@ -18,7 +18,10 @@ spring:
     username: guest
     password: guest
 
-
+springdoc:
+  api-docs:
+    path: /classroom-docs
+    
 disciplina:
   rabbitmq:
     exchange: disciplina.exchange
